@@ -5,7 +5,7 @@
 
 //if else
 
-let weather:string='sunny';
+let weather:string='rainy';
 if(weather=='rainy'){
     console.log('Grab an ☔')
 }
@@ -36,3 +36,4 @@ switch(day){
     case 6: today='Saturday'; break;
 }
 console.log(today);
+

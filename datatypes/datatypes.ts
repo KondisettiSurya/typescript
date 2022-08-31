@@ -1,5 +1,5 @@
 
-//string example
+//string example 
 
 let employeeName:string='suryaKondisetti';
 console.log(`Employee Name : ${employeeName}`);
